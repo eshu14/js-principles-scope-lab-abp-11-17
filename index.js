@@ -19,8 +19,9 @@ function changeLeastFavoriteCustomer(){
 function attemptTwoFavoriteCustomers()
 {
   let favoriteCustomer;
+  let favoriteCustomer;
   try{
-    let favoriteCustomer;
+    
     throw "SyntaxError";
   }
   catch(err){
