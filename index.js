@@ -22,6 +22,8 @@ function attemptTwoFavoriteCustomers()
   try{
     let favoriteCustomer;
   }
-  catch()
+  catch(err){
+    console.log("too many declaration of same variable");
+  }
 
 }
