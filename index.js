@@ -21,7 +21,7 @@ function attemptTwoFavoriteCustomers()
   let favoriteCustomer;
   try{
     let favoriteCustomer;
-    throw "declared";
+    throw "SyntaxError";
   }
   catch(err){
     console.log("unsuccessfully tries to declare favoriteCustomer with let two time");
