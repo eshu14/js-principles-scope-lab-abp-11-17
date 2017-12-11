@@ -20,12 +20,12 @@ function attemptTwoFavoriteCustomers()
 {
   let favoriteCustomer;
   let favoriteCustomer;
-  try{
-    
+/*  try{
+
     throw "SyntaxError";
   }
   catch(err){
     console.log("unsuccessfully tries to declare favoriteCustomer with let two time");
-  }
+  }*/
 
 }
